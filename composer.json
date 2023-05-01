@@ -1,0 +1,10 @@
+{
+    "name": "user/user",
+    "description": "example pack",
+    "authors": [
+        {
+            "name": "user"
+        }
+    ],
+    "require": {}
+}
